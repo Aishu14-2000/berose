@@ -1,2 +1,2 @@
 # berose
-mine
+mine docs
